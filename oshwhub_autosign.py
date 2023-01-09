@@ -362,7 +362,7 @@ OSHW = '{"1300000": "123"}'
 
 # 推送加 推送
 # pushplus token
-pushplus_token = ""
+pushplus_token = "b357eedf227c4b71bf2de1e66b18a4e9"
 
 # qq酷推 推送
 # coolpush token
